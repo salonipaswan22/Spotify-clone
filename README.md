@@ -7,7 +7,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
   ## Images
-  "C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-06-13 092126.png"
+  <img width="1920" height="1080" alt="Screenshot 2026-06-13 092126" src="https://github.com/user-attachments/assets/35529df9-3d50-4803-8d00-32355b498253" />
+
 
 ## React Compiler
 

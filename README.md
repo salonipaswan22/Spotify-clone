@@ -41,7 +41,8 @@ The project focuses on implementing React best practices, reusable UI components
 > Add your deployed project link here.
 
 ```
-https://your-live-demo-link.com
+<img width="1920" height="1080" alt="Screenshot 2026-06-13 081452" src="https://github.com/user-attachments/assets/0529b811-d743-495f-8fe5-d171d0c99d90" />
+
 ```
 
 ---
@@ -305,7 +306,8 @@ Optimized for:
 ## Home Page
 
 ```
-screenshots/home.png
+<img width="1920" height="1080" alt="Screenshot 2026-06-13 092126" src="https://github.com/user-attachments/assets/e78131f5-678d-4c2a-b4ea-9a4a4b0d640d" />
+
 ```
 
 ---
@@ -313,7 +315,8 @@ screenshots/home.png
 ## Music Player
 
 ```
-screenshots/player.png
+<img width="1920" height="1080" alt="Screenshot 2026-06-13 092126" src="https://github.com/user-attachments/assets/c9e9e61e-d6bb-49cb-beb7-de9ecc5af6cb" />
+
 ```
 
 ---
@@ -321,7 +324,8 @@ screenshots/player.png
 ## Sidebar
 
 ```
-screenshots/sidebar.png
+<img width="1920" height="1080" alt="Screenshot 2026-06-13 081452" src="https://github.com/user-attachments/assets/b4524d9d-7e83-4761-a1a1-7a8d8ac649c7" />
+
 ```
 
 ---
